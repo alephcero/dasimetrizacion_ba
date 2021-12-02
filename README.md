@@ -7,6 +7,6 @@ El resultado final es un dataset con centroides de parcelas con totales poblacio
 
 Perdemos algo así como el 6 % de la población por radios censales con poblacion pero sin parcelas residenciales o sin superficie construida.
 
-Pueden encontrar bibliografía sobre este método en [Rosso, 2016](http://igeopat.org/parrafosgeograficos/images/RevistasPG/2016_V15_1/25-7.pdf); [Maantay et al, 2007] (https://www.semanticscholar.org/paper/Mapping-Population-Distribution-in-the-Urban-The-Maantay-Maroko/b376c52694aa87fb6efcb6cbc107cbdb92bf9dd2) y [Lwin et al, 2010](https://creativecity.gscc.osaka-cu.ac.jp/IJG/article/view/500)
+Pueden encontrar bibliografía sobre este método en [Rosso, 2016](http://igeopat.org/parrafosgeograficos/images/RevistasPG/2016_V15_1/25-7.pdf); [Maantay et al, 2007](https://www.semanticscholar.org/paper/Mapping-Population-Distribution-in-the-Urban-The-Maantay-Maroko/b376c52694aa87fb6efcb6cbc107cbdb92bf9dd2) y [Lwin et al, 2010](https://creativecity.gscc.osaka-cu.ac.jp/IJG/article/view/500)
 
 ![mapa](mapa.png)
